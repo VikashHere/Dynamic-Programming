@@ -30,4 +30,3 @@ class GFG {
 							+ maxProd(10));
 	}
 }
-// This code is contributed by Prerna Saini
